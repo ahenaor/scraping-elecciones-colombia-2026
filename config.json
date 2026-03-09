@@ -1,0 +1,23 @@
+{
+  "base_url": "https://resultados.registraduria.gov.co",
+  "nomenclator_url": "https://resultados.registraduria.gov.co/json/nomenclator.json",
+  "cookies": {
+    "cf_clearance": "2DlRONjuWC8R44xMyb1R0wGX3q8FKofNu2WIZ3jcOEg-1772638341-1.2.1.1-6NrmkVwTXT2WUlprJ.p2vhs_ByFPRe0FCsF6_1i3x9m08z9Kz6E_XKPLnJIq5bd41swGiDzgOIzG611se6v0bYJDCZcIAjw9O5qB_DSc9jMC9Ne456UyLnMDUcBiY6NmsxvT1D9QRC7dBfxve4_UUa5hVO66FeXFP5GAlGiicRRXsb9411VX85qAezWX1l20XsULOSbWq1sT30QygU.pvmSNLICW5TQDXg0PpF0IM0k"
+  },
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-US,en;q=0.9",
+    "cache-control": "no-cache",
+    "pragma": "no-cache",
+    "priority": "u=1, i",
+    "referer": "https://resultados.registraduria.gov.co/",
+    "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"Brave\";v=\"145\", \"Chromium\";v=\"145\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"macOS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "sec-gpc": "1",
+    "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+  }
+}
